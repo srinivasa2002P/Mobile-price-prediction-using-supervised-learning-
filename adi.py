@@ -11,7 +11,7 @@ otp_storage = {}
 
 # Email sender credentials (Replace with your actual credentials)
 EMAIL_ADDRESS = "jsrinivasaadi@gmail.com"
-EMAIL_PASSWORD = "uxzn dltp qikt zpvx"  # Use an App Password if using Gmail
+EMAIL_PASSWORD = "give your google app password"  # Use an App Password if using Gmail
 
 @app.route('/')
 def home():
