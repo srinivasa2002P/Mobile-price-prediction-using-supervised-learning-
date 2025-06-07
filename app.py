@@ -10,7 +10,7 @@ app.config["MAIL_SERVER"] = "smtp.gmail.com"
 app.config["MAIL_PORT"] = 465
 app.config["MAIL_USE_SSL"] = True
 app.config["MAIL_USERNAME"] = "jsrinivasaadi@gmail.com"  # Replace with your email
-app.config["MAIL_PASSWORD"] = "wekw afmq briq qdnw"  # Replace with your generated app password
+app.config["MAIL_PASSWORD"] = "your google app password"  # Replace with your generated app password
 
 mail = Mail(app)
 
